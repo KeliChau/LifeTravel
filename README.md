@@ -1,66 +1,67 @@
-# lifeTravel
+# LifeTravel
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Noun_15537_ccElliotVerhaeren_travel.svg/200px-Noun_15537_ccElliotVerhaeren_travel.svg.png)
+## Table of Contents
++ [Overview](#overview)  
++ [Visuals](#visuals)
++ [Assignment](#assignment)
++ [Future Development](#future-development)
++ [Contributing](#contributing)
++ [Acknowledgments](#acknowledgments)
++ [License](#license)
 
-## **lifeTravel:** Organized & Simple
+## Overview
+LifeTravel is a mobile-friendly web application for travelers on-the-go to organize their trip plans that allow them to book flights, search weather, air quality, and foreign currency. 
 
-### **Team:** Juanita Pinkney-Barrier, Summiyah Siddeeq, Michelle Johnson, and Keli Chau
+## Visuals
+![Alt Text](assets/visuals/LifeTravel.gif)
 
-### **Overview:** lifeTravel is a web application that allows the user to research a location and obtain important data right on their screen. The application will show ticket information, hotels, weather, immunizations required/health data. App will be fully functional for mobile.
+## Assignment
+This application is a group project for [GA Tech's Coding Program](https://codingbootcamp.pe.gatech.edu/), Full-Time Fall 2017 Cohort.
 
-## **Rough Breakdown of Tasks:**
+## Future Development
++ Flights API Integration
++ Digital Immunzations Records
++ Required Immunizations for Destination
++ Safety Information 
 
-### Theme: Travel
+## Contributing
+1. Fork this repository
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request
 
-### API
+## Acknowledgments
++ [Open Weather Map](https://airvisual.com/) API
++ [Currency Layer](https://currencylayer.com/) API
++ [AirVisual](https://airvisual.com/) API
++ [Google](https://www.google.com/flights/) Flights
++ [Bootstrap](https://getbootstrap.com/) Frameworks
++ [Google](https://fonts.google.com/) Fonts
++ [Materialize](http://materializecss.com/) CSS Design
 
+## License
+#### MIT License
 
-* Open Weather
-* Currency Layer
-* AirVisual
+##### Copyright (c) 2017 Keli Chau, Michelle Johnson, Summiyah Siddeeq, Juanita Pinkney
 
-### Content:
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-* Flight Search
-* Travel Preparation Checklist
-* Currency Converter
-* Weather Search
-* Air Quality Search
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-
-### UI/UX Design Phase:
-
-* Images
-* Complete layout/style of pages
-* Input Panels
-* Submit Buttons
-
-### Wireframes:
-
-* Material Design
-* Bootstrap CSS & jQuery Design
-
-### Coding Phase:
-
-* HTML/CSS
-* Ajax
-* Query API
-* Buttons
-* Persistance
-	
-### Visual Mockup: ![Basic Visual Layout](https://github.com/summiyah/travel-app/raw/master/Screen%20Shot%202017-12-04%20at%204.38.12%20PM.png)
-
-### Future Goals
-
-* Flights API Integration
-* Digital Immunzations Records
-* Required Immunizations for Destination
-* Safety Information 
-
-
-
-
-
-
+### [:top:](#LifeTravel)
 
