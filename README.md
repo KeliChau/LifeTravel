@@ -18,6 +18,10 @@ LifeTravel is a mobile-friendly web application for travelers on-the-go to organ
 ## Assignment
 This application was a group project for [GA Tech's Coding Program](https://codingbootcamp.pe.gatech.edu/), Full-Time Fall 2017 Cohort.
 
+### Collaborators
++ **Back End**: [Michelle Johnson](https://www.github.com/JohnsonMic) and [Keli Chau](https://www.github.com/kelichau)
++ **Front End**: [Summiyah Siddeeq](https://www.github.com/summiyah) and [Juanita Pinkney](https://www.github.com/juanitapinkney)
+
 ## Future Development
 + Flights API Integration
 + Digital Immunzations Records
@@ -43,7 +47,7 @@ This application was a group project for [GA Tech's Coding Program](https://codi
 ## License
 #### MIT License
 
-##### Copyright (c) 2017 Keli Chau, Michelle Johnson, Summiyah Siddeeq, Juanita Pinkney
+##### Copyright (c) 2017 LifeTravel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
