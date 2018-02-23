@@ -16,7 +16,7 @@ LifeTravel is a mobile-friendly web application for travelers on-the-go to organ
 ![Alt Text](assets/visuals/LifeTravel.gif)
 
 ## Assignment
-This application is a group project for [GA Tech's Coding Program](https://codingbootcamp.pe.gatech.edu/), Full-Time Fall 2017 Cohort.
+This application was a group project for [GA Tech's Coding Program](https://codingbootcamp.pe.gatech.edu/), Full-Time Fall 2017 Cohort.
 
 ## Future Development
 + Flights API Integration
